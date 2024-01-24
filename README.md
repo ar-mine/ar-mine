@@ -1,4 +1,8 @@
-### Hi there 👋
+### Update List 🌱
++ IMG_Automator: 24/JAN/2024 (Stable Version)
+
+### TODO List 👋
++ IMG_Automator: Add a version changelog.
 
 <!--
 **ar-mine/ar-mine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
